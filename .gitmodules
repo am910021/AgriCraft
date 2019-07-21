@@ -6,4 +6,4 @@
 	url = https://github.com/InfinityRaider/InfinityLib.git
 [submodule "lib/AgriCore"]
 	path = lib/AgriCore
-	url = https://github.com/AgriCraft/AgriCore.git
+	url = https://github.com/am910021/AgriCore.git
